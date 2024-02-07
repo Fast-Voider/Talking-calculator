@@ -23,3 +23,7 @@ Unsure?
 1. its primitive
 2. the speech recognition isnt good
 3. your mic might not be good
+
+## Build info
+
+must build your self (avoiding any claims of this being a virus/rat)
